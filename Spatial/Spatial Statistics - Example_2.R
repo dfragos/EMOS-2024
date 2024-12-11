@@ -24,7 +24,7 @@ if(!require('spgwr')) install.packages('spgwr', dependencies=T); library('spgwr'
 
 
 # Shapefile loading---------------
-setwd("../Topic2 - Spatial Statistics/Data and R code")
+setwd(".")
 #setwd("C:/Users/franc/Dropbox/EMOS_LO_fra/Prov01012007")
 
 italy <- readOGR("Prov01012007.shp",stringsAsFactors=F)
