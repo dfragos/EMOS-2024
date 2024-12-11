@@ -1,1 +1,1 @@
-"# EMOS-2024" 
+Το repository αυτό είναι το Playground για το EMOS 2024.
